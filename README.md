@@ -31,15 +31,6 @@ After opening in Colab, select **Runtime → Run all**; no manual path edits are
 
 ---
 
-## Summary of Analytical Findings
-
-- Ponding frequency increases at low elevations (below roughly 10 m) combined with high rainfall intensities (above 50 mm / hr).  
-- Segments located more than 150 m from a storm-drain inlet show markedly higher incidence of ponding.  
-- Clay-dominant soil groups C and D are most associated with persistent ponding zones.  
-- These variables jointly highlight priority areas for storm-water infrastructure maintenance and asset upgrades.
-
----
-
 ## Tech Stack
 | Component | Tools |
 |------------|-------|
